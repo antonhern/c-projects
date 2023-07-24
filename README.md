@@ -9,3 +9,6 @@ map around picking up different items and dropping them aswell.
 ## RPNCalculator.X
 this file holds an RPN calculator. The user can enter a string of text with different types of characters and the solution to the 
 problem will be produced. "1+22*5" is an example of what can be entered.
+
+## Arithmetic
+Holds an ADT in c++ that is able to perform arithmetic operations on large signed integers.
