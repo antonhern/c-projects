@@ -1,0 +1,20 @@
+# ahern336
+
+## files
+-Arithmetic.cpp
+-BigInteger.cpp
+-BigInteger.h
+-BigIntegerTest.cpp
+-List.cpp
+-List.h
+-ListTest.cpp
+-Makefile
+-README
+
+## comments
+This pa took longer than the other ones as it was more complicated. I don't think i got the implementaion of
+each fucntion down correctly so i may lose points. Most of the implementation for the fucntions
+I got from going to tutoring sections as well as from the example files. For arithmetic I used the example
+files for help and implemantaion. The same foes for the Biginteger.cpp file. the .h file for Bitinteger
+was provided and the test were just something i cam up with. The List files were all from the previous pa.
+The make file was provided as well. 
