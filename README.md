@@ -1,5 +1,5 @@
 # c-projects
-this repository holds some c projects
+this repository holds some c and c++ projects
 
 ## dungeon.X
 this file holds a dungeon game made in C. The room files are not something I made but I made the code that uses them. The code
